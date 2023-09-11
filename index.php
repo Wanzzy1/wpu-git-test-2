@@ -9,6 +9,8 @@
 
 <body>
     <h1>halo dunia 2</h1>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto consectetur aut amet itaque voluptatum. Autem
+        fugit vitae, omnis dolorum natus nemo repudiandae amet ad quia, laborum at esse atque labore!</p>
 </body>
 
 </html>
