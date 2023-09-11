@@ -9,8 +9,10 @@
 
 <body>
     <h1>halo dunia 2</h1>
-    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto consectetur aut amet itaque voluptatum. Autem
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto consectetur aut amet itaque voluptatum. Aute
         fugit vitae, omnis dolorum natus nemo repudiandae amet ad quia, laborum at esse atque labore!</p>
+    <li>1</li>
+    <li>2</li>
 </body>
 
 </html>
